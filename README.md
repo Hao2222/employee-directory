@@ -1,4 +1,4 @@
-# Unit 19 React Homework: Employee Directory
+# Employee Directory
 
 This app allows the user to view the entire employee directory at once to have quick access to their information. 
 
